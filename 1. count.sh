@@ -1,0 +1,4 @@
+#!/bin/bash
+
+mageck count -l sam_human_library_annotated.csv -n ./Counts --sample-label "starting_pool,Library_C_passage_1,Library_B_passage_5,Library_B_passage_4,Library_B_passage_3,Library_B_passage_2,Library_B_passage_1,Library_A_passage_5,Library_A_passage_4,Library_C_passage_5,Library_C_passage_4,Library_C_passage_3,Library_C_passage_2,Library_A_passage_3,Library_A_passage_2,Library_A_passage_1
+" --fastq SRR23331556.fastq SRR23332415.fastq SRR23332416.fastq SRR23332417.fastq SRR23332418.fastq SRR23332419.fastq SRR23332420.fastq SRR23332421.fastq SRR23332422.fastq SRR23332423.fastq SRR23332424.fastq SRR23332425.fastq SRR23332426.fastq SRR23332427.fastq SRR23332428.fastq SRR23324786.fastq
